@@ -1,2 +1,2 @@
-# Hit-The-Digit-Game
+# Hit The Digit
 A simple Number Guessing Game.
